@@ -40,6 +40,15 @@ zlc同学发现有人在偷听他和wls的机密谈话,感到很恼火,并且机
 + 代码源码
 + 编译完的固件文件
 
+# Hints:
++ www.google.com
++ www.github.com
++ www.freertos.org
++ https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview
+
+你可能需要的文件:
++ https://drive.google.com/open?id=1cq5FKA8VXWzslgo1OAnx5bg1th57P2hL
+
 # 评分标准:
 
 **看心情**
